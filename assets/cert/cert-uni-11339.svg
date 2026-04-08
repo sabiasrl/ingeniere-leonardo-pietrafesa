@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 72" fill="none" aria-hidden="true">
+  <rect width="140" height="72" rx="2" fill="#fff" stroke="#0d0d0d" stroke-width="1.5"/>
+  <rect x="10" y="14" width="4" height="44" fill="#c4002a"/>
+  <text x="22" y="48" font-family="system-ui, -apple-system, sans-serif" font-size="34" font-weight="800" fill="#0d0d0d" letter-spacing="-0.02em">UNI</text>
+  <text x="108" y="48" text-anchor="end" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="700" fill="#5c5c5c">11339</text>
+  <text x="70" y="64" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="6.5" font-weight="600" letter-spacing="0.08em" fill="#5c5c5c">SCHEMA DI CERTIFICAZIONE</text>
+</svg>
