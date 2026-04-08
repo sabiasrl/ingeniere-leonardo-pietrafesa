@@ -16,12 +16,13 @@
   <link rel="stylesheet" href="styles.css" />
 </head>
 
-<body>
+<body id="top">
   <header class="site-header">
     <div class="container header-inner">
-      <a href="#" class="brand">
+      <a href="#top" class="brand">
         <img class="brand-logo" src="assets/logo.png" width="240" height="72"
           alt="Ing. Leonardo Pietrafesa — Studio tecnico" decoding="async" />
+        <span class="brand-name">Ing. Leonardo&nbsp;Pietrafesa</span>
       </a>
       <button type="button" class="nav-toggle" id="nav-toggle" aria-expanded="false" aria-controls="primary-navigation"
         aria-label="Apri menu">
@@ -33,6 +34,9 @@
       </button>
       <div class="nav-backdrop" id="nav-backdrop" aria-hidden="true"></div>
       <nav id="primary-navigation" class="nav" aria-label="Navigazione principale">
+        <a href="#top" class="nav-overlay-home" aria-label="Torna all’inizio della pagina">
+          <img class="nav-overlay-logo" src="assets/logo.png" width="240" height="72" alt="" decoding="async" />
+        </a>
         <a href="#chi-sono">Chi sono</a>
         <a href="#attivita">Attività</a>
         <a href="#servizi">Servizi</a>
@@ -59,7 +63,7 @@
             normativa e alle energie rinnovabili.
           </p>
           <div class="hero-actions">
-            <a class="btn btn-primary" href="#contatti">Contatto</a>
+            <a class="btn btn-primary" href="#contatti">Contatti</a>
             <a class="btn btn-ghost" href="#servizi">Servizi</a>
           </div>
         </div>
