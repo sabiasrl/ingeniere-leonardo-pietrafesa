@@ -1006,6 +1006,55 @@ section {
   gap: 0.65rem 0.85rem;
 }
 
+.vcard-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.15rem;
+  height: 2.75rem;
+  min-height: 2.75rem;
+  padding: 0 0.5rem;
+  border: none;
+  border-radius: 0;
+  background: var(--bg-subtle);
+  color: var(--ink);
+  flex-shrink: 0;
+  text-decoration: none !important;
+  transition:
+    color 0.15s ease,
+    background 0.15s ease;
+}
+
+.vcard-link:hover {
+  color: var(--ink);
+  background: #ececec;
+  text-decoration: none;
+}
+
+.contact-card a.vcard-link:hover {
+  text-decoration: none;
+}
+
+.vcard-link:focus-visible {
+  outline: 2px solid var(--ink);
+  outline-offset: 3px;
+}
+
+.vcard-link__icon {
+  display: block;
+  flex-shrink: 0;
+}
+
+.vcard-link__icon--plus {
+  width: 0.7rem;
+  height: 0.7rem;
+}
+
+.vcard-link__icon--card {
+  width: 1.42rem;
+  height: 1.16rem;
+}
+
 .whatsapp-link {
   display: inline-flex;
   align-items: center;

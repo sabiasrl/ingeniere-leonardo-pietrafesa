@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Pietrafesa;Leonardo;;Ing.;
+FN:Ing. Leonardo Pietrafesa
+ORG:Studio tecnico - Ing. Leonardo Pietrafesa
+TITLE:Ingegnere energetico e termotecnico
+TEL;TYPE=CELL,voice:+393405386515
+EMAIL;TYPE=INTERNET:leonardo@pietrafesa.info
+EMAIL;TYPE=INTERNET:leonardo.pietrafesa@ingpec.ue
+ADR;TYPE=WORK:;;Via Isca Del Pioppo;Potenza;PZ;85100;Italia
+END:VCARD
