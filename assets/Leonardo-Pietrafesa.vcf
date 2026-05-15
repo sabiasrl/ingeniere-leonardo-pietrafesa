@@ -1,7 +1,7 @@
 BEGIN:VCARD
 VERSION:3.0
 FN:Ing. Leonardo Pietrafesa
-N:Pietrafesa\;Leonardo\;\;Ing.\;
+N:Ing. Leonardo Pietrafesa
 ORG:Studio tecnico - Ing. Leonardo Pietrafesa
 TITLE:Ingegnere energetico e termotecnico
 TEL;TYPE=WORK,VOICE:+393405386515
@@ -9,5 +9,5 @@ EMAIL;TYPE=INTERNET,PREF:leonardo@pietrafesa.info
 EMAIL;TYPE=INTERNET:leonardo.pietrafesa@ingpec.ue
 URL:https://pietrafesa.info/
 ADR;TYPE=WORK:;;Via Isca Del Pioppo;Potenza;PZ;85100;Italia
-NOTE:Ing. Leonardo Pietrafesa — ingegnere energetico e termotecnico. Via Isca Del Pioppo\, Potenza (PZ). Progettazione e impianti fluidomeccanici. Sud Italia. Sito: https://pietrafesa.info/
+NOTE:Ing. Leonardo Pietrafesa — ingegnere energetico e termotecnico. Via Isca Del Pioppo\, Potenza (PZ). Progettazione e impianti fluidomeccanici. Sud Italia.
 END:VCARD
